@@ -1,2 +1,3 @@
 # Learning-Js-Data-Structures-and-Algorithms
-Learning
+
+0. Stack 
