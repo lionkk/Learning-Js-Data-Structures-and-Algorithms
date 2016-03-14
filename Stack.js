@@ -1,4 +1,4 @@
-function stack() {
+function Stack() {
   var items = [];
 
   this.push = function(element) {
@@ -32,7 +32,7 @@ function stack() {
 
 //test
 function baseConverter(decNumber, base) {
-  var remStack = new stack();
+  var remStack = new Stack();
   var rem;
   var baseString = '';
   var digits = '0123456789ABCDEF';
