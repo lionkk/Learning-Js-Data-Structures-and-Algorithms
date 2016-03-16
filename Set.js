@@ -1,3 +1,5 @@
+'use strict';
+
 function MySet() {
   var items = {};
 
@@ -47,13 +49,13 @@ function MySet() {
     var unionSet = new MySet();
 
     var values = this.values();
-    for (var i=0; i<values.length; ++i) {
+    for (let i=0; i<values.length; ++i) {
       unionSet.add(values[i]);
     }
 
     values = otherSet.values();
-    for (var n=0; n<values.length; ++n) {
-      unionSet.add(values[n]);
+    for (let i=0; i<values.length; ++i) {
+      unionSet.add(values[i]);
     }
 
     return unionSet;
