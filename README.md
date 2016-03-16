@@ -4,3 +4,4 @@
 1. Queue
 2. LinkedList
 3. Set
+4. Dictionary
