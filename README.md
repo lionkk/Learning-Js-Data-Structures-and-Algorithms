@@ -5,3 +5,4 @@
 2. LinkedList
 3. Set
 4. Dictionary
+5. HashTable
