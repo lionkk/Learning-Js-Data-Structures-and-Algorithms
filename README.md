@@ -6,3 +6,4 @@
 3. Set
 4. Dictionary
 5. HashTable
+6. BinarySearchTree
