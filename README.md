@@ -7,3 +7,5 @@
 4. Dictionary
 5. HashTable
 6. BinarySearchTree
+7. Graph
+8. Sort and Search
